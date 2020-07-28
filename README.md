@@ -13,4 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+This is all hidden 
+
+Hi! I'm a Text Mining Specialist with strong software development skills
+
+Worked on SDE
+
+Data Science
+
+Artificial Intelligence
+
+
 -->
