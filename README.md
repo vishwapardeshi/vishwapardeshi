@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a graduate student specializing in Data Science at University of Washington.
+### Hi there 👋 I'm Vishwa Pardeshi, an Artificial Intelligence Fellow at Giving Tech Labs, Seattle.
 
 <!--
 **vishwapardeshi/vishwapardeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
