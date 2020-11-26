@@ -1,4 +1,10 @@
-### Hi there 👋 I'm Vishwa Pardeshi, an Artificial Intelligence Fellow at Giving Tech Labs, Seattle.
+### Hi there 👋 I'm Vishwa Pardeshi, an Artificial Intelligence Fellow at Giving Tech Labs, Seattle building NLP-powered Knowledge Graphs using the best software engineering practices.
+
+My Area of Interest/Expertise:
+1. NLP - Named Entity Recognition, Relationship Extraction, Record Linking, Topic Modeling, 
+2. Data Science - A/B Testing, Statistics, Visualizations
+3. Machine Learning
+4. Software Development
 
 <!--
 **vishwapardeshi/vishwapardeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
