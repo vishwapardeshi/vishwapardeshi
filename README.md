@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Vishwa Pardeshi, an Artificial Intelligence Fellow at Giving Tech Labs, Seattle building NLP-powered Knowledge Graphs using the best software engineering practices.
 
+I'm open to full-time opportunities beginning in 2021 in the following areas. Reach out to me @ pardeshi.vishwa25_at_gmail.com if you would love to learn more about my interests.
+
 #### My Area of Interest/Expertise:
 1. Natural Language Processing
 2. Data Science - A/B Testing, Statistics, Visualizations
@@ -14,6 +16,7 @@
 
 #### Education:
 Masters of Science in Data Science @ University of Washington (UW), Seattle
+
 Bachelors of Engineering in Computer Engineering @ University of Mumbai, Sardar Patel Institute of Technology (**Dean's Gold Medalist**)
 
 
