@@ -9,8 +9,8 @@ I'm open to full-time opportunities beginning in 2021 in the following areas. Re
 4. Software Development
 
 #### Work Experience:
-- Currently AI/NLP Fellow @ Giving Tech Labs
 - Currently Text Mining Specialist @ UW eScience
+- AI/NLP Fellow @ Giving Tech Labs
 - Data Scientist @ UW Medicine
 - Tech Analyst Intern @ Credit Suisse
 
