@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vishwa Pardeshi, an Artificial Intelligence Fellow at Giving Tech Labs, Seattle building NLP-powered Knowledge Graphs using the best software engineering practices.
+### Hi there 👋 I'm Vishwa Pardeshi, Data Scientist at Fidelity.
 
 I'm open to full-time opportunities beginning in 2021 in the following areas. Reach out to me @ pardeshi.vishwa25_at_gmail.com if you would love to learn more about my interests.
 
@@ -9,7 +9,8 @@ I'm open to full-time opportunities beginning in 2021 in the following areas. Re
 4. Software Development
 
 #### Work Experience:
-- Currently Text Mining Specialist @ UW eScience
+- Data Scientist @ Fidelity Investments
+- Text Mining Specialist @ UW eScience
 - AI/NLP Fellow @ Giving Tech Labs
 - Data Scientist @ UW Medicine
 - Tech Analyst Intern @ Credit Suisse
