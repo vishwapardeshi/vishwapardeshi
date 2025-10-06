@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vishwa Pardeshi, Data Scientist at Fidelity.
+### Hi there 👋 I'm Vishwa Pardeshi, Senior Data Scientist at Fidelity.
 
 I'm open to full-time opportunities beginning in 2021 in the following areas. Reach out to me @ pardeshi.vishwa25_at_gmail.com if you would love to learn more about my interests.
 
@@ -19,10 +19,6 @@ I'm open to full-time opportunities beginning in 2021 in the following areas. Re
 Masters of Science in Data Science @ University of Washington (UW), Seattle
 
 Bachelors of Engineering in Computer Engineering @ University of Mumbai, Sardar Patel Institute of Technology (**Dean's Gold Medalist**)
-
-
-
-
 
 
 <!--
